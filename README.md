@@ -2,7 +2,8 @@
 Décembre 2025
 ## 🎯 Objectif
 Développer un tableau de bord interactif pour piloter la performance commerciale et optimiser la prise de décision stratégique.
--Indicateurs clés : Suivi du chiffre d'affaires, analyse des commandes supprimées et répartition géographique des ventes.
+
+Indicateurs clés : Suivi du chiffre d'affaires, analyse des commandes supprimées et répartition géographique des ventes.
 ## 🛠️ Technologies
 - Power BI : Conception de rapports permettant une lecture rapide des tendances par les décideurs
 - Power Query : Nettoyage, normalisation et transformation de jeux de données bruts pour garantir la cohérence des analyses
